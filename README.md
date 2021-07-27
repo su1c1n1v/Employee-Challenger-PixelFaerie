@@ -18,6 +18,8 @@
 - .NET Core (3.11);
 - C#.
 ---
+### Links
+- [DOTNET EF](https://www.nuget.org/packages/dotnet-ef/3.0.0)
 ```diff
  This project it was create only with the purpose of complete one of the challenger to work in the PixalFaerie.
  ```
