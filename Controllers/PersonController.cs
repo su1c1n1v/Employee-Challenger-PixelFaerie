@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Employee.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class PersonController : ControllerBase
     {
@@ -61,6 +61,7 @@ namespace Employee.Controllers
                 return NotFound();
             }
             _repository.DeletePerson(person);
+            _repository.SaveChanges();
             return NoContent();
         }
     }
