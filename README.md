@@ -2,7 +2,7 @@
 ---
 
 - This project it was created with a challenger from PixalFaerie;
-- I has some problem to make the migrations because the dotnet ef in the moment it is a global CLI application, then i needed to reinstall the dotnet ef to make the migrations.
+- I has some problem to make the migrations because the dotnet ef in the moment it is a global CLI application, then I needed to reinstall the dotnet ef to make the migrations.
 ---
 ### Frameworks
 - Microsoft.EntityFrameworkCore;
