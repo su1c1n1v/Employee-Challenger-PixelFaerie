@@ -11,6 +11,13 @@
 - Microsoft.AspNetCore.JsonPatch;
 - Microsoft.AspNetCore.Mvc.NewtonsoftJson.
 ---
+
+### Tools
+- Postman;
+- Visual Studio;
+- .NET Core (3.11);
+- C#.
+
 ```diff
  This project it was create only with the purpose of complete one of the challenger to work in the PixalFaerie.
  ```
